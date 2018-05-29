@@ -4,6 +4,8 @@
 ## How to win:
 Longest streak of 'daily contributions' among all participants
 
+See https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/ for more information.
+
 ## Prize: 
 tbd
 
