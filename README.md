@@ -13,5 +13,5 @@ Must contribute *something* of value to a project you own or participate in (thr
 TODO: Lawyer-sp33k of what 'value' is, and is not! (IE, setting up a script that daily changes a hardcoded variable value does not apply) :s
 
 ## Participant list
-https://github.com/hspirdal
-https://github.com/wr0b
+* https://github.com/hspirdal
+* https://github.com/wr0b
