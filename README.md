@@ -1,8 +1,9 @@
-# Opus Challenge 2018
-*Challenge start date:* 1st of June, 2018.
+# Opus June Challenge 2018
+*Challenge start date: 1st of June, 2018.
+*Challenge end date: 1st of July, 2018.
 
 ## How to win:
-Longest streak of 'daily contributions' among all participants
+Longest streak of 'daily contributions' among all participants, **or** remain 'active' for the duration of the challenge. (Winner, or winners)
 
 See https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/ for more information.
 
@@ -10,9 +11,20 @@ See https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-
 tbd
 
 ## Rules:
-Must contribute *something* of value to a project you own or participate in (through a commit) every day. 10 minutes or 10 hours, does not matter.
+Must contribute *something* of value to a project you own or participate in (through a commit) every day. 10 minutes or 10 hours, doesn't matter.
 
-TODO: Lawyer-sp33k of what 'value' is, and is not! (IE, setting up a script that daily changes a hardcoded variable value does not apply) :s
+## Purpose:
+To collectively push ourselves to further our own goals in tiny steps, every day.
+
+## Project tips
+* Learn a new language by doing tutorial stuff / small programs (Rust, Elixir, Closure, Ruby, Python, etc.)
+* Practice TDD by doing daily coding katas
+* Make game / tech demo featuring some technology spike you care about
+* Make some tool to automate repetitive tasks
+* Sample web app with docker
+* Sample web app with automated deployment
+
+[Suggestions welcome!]
 
 ## Participant list
 * https://github.com/hspirdal
