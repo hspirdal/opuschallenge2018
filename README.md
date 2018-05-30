@@ -30,3 +30,4 @@ To collectively push our knowledge and skill, every day.
 ## Participant list
 * https://github.com/hspirdal
 * https://github.com/wr0b
+* https://github.com/Magnusad
