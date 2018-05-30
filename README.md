@@ -15,7 +15,7 @@ tbd
 Must contribute *something* of value to a project you own or participate in (through a commit) every day. 10 minutes or 10 hours, doesn't matter.
 
 ## Purpose:
-To collectively push ourselves to further our goals in tiny steps, every day.
+To collectively push our knowledge and skill, every day.
 
 ## Project tips
 * Learn a new language by doing tutorial stuff / small programs (Rust, Elixir, Closure, Ruby, Python, etc.)
