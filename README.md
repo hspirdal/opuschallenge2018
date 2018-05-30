@@ -1,5 +1,6 @@
 # Opus June Challenge 2018
 **Challenge start date:** 1st of June, 2018.
+
 **Challenge end date:** 1st of July, 2018.
 
 ## How to win:
