@@ -31,3 +31,4 @@ To collectively push our knowledge and skill, every day.
 * https://github.com/hspirdal
 * https://github.com/wr0b
 * https://github.com/Magnusad
+* https://github.com/Tronrud
